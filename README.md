@@ -1,11 +1,13 @@
 <div align="center">
-# Mundus Dynamics
+
+ # Mundus Dynamics
  
 **Agentic AI Engineering Studio**
  
 [![Website](https://img.shields.io/badge/Website-mundusdynamics.github.io-7c3aed?style=flat-square)](https://mundusdynamics.github.io/)
  
 </div>
+
 ---
  
 Specialized in designing and deploying production-grade **agentic AI systems** — from multi-agent orchestration to RAG pipelines and intelligent backends.
@@ -27,7 +29,8 @@ Specialized in designing and deploying production-grade **agentic AI systems** �
 ---
  
 <div align="center">
-🌐 **[mundusdynamics.github.io](https://mundusdynamics.github.io/)**
+
+ 🌐 **[mundusdynamics.github.io](https://mundusdynamics.github.io/)**
  
 </div>
  
